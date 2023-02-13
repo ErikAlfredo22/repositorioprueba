@@ -19,7 +19,7 @@ function App() {
         nombre='Alan Rodolfo Ruiz Santillan'
         pais='Mexico'
         imagen=''
-        cargo='Ingeniero'
+        cargo='Ingeniero hola'
         empresa='gato azul'
         testimonio='Quiero aprender a programar gentai'
         />
